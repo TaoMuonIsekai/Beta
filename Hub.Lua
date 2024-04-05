@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TaoMuonIsekai/Beta/main/Hub.Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TaoMuonIsekai/V/main/1"))()
